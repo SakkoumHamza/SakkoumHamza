@@ -5,7 +5,7 @@
 
 # About myself
 
-Master’s student in Advanced Machine Learning & Multimedia Intelligence with a strong foundation in data engineering, distributed systems, and intelligent databases. Passionate about designing and optimizing data pipelines, ensuring data quality, and enabling scalable analytics. Highly motivated to join an innovative environment an internship, aiming to deliver robust data-driven solutions while strengthening expertise in big data frameworks, cloud platforms, and modern software engineering practices.
+Master’s student in Advanced Machine Learning & Multimedia Intelligence with a strong foundation in data engineering, distributed systems, and intelligent databases. Passionate about designing and optimizing data pipelines, ensuring data quality, and enabling scalable analytics. 
 
 
 # 🖥️ Tech Stack
@@ -16,15 +16,11 @@ Master’s student in Advanced Machine Learning & Multimedia Intelligence with a
 ## 🤖 AI/ML Stack
 <img src="https://img.shields.io/badge/LangChain-ffffff?style=for-the-badge&logo=langchain&logoColor=green"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 
-
 ## ☁️ DevOps & Cloud
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 
 ## 📊 Data visualisation 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-
-
-
 
 # Languages
 - <strong>Full professional proficiency:</strong> English, French
